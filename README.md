@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sheetal
 - 👀 I’m interested in Quality Assurance, Enthusiastic for Automation
-- 🌱 I’m currently learning How to perform Load testing and performance testing 
-- 💞️ I’m looking to collaborate on RPA
+- 🌱 I’m currently learning How to perform Load testing, performance testing and WebDriver.io
+- 💞️ I’m looking to collaborate on Mobile Automation Testing
 - 📫 How to reach me sheetalc818@gmail.com
 
 <!---
