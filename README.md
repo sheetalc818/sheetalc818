@@ -1,3 +1,4 @@
+- Quality is never an accident; it is always the result of intelligent efforts and I am trying to put effort from my side to provide quality  
 - 👋 Hi, I’m Sheetal
 - 👀 I’m interested in Quality Assurance, Enthusiastic for Automation
 - 🌱 I’m currently learning How to perform Load testing, performance testing and WebDriver.io
